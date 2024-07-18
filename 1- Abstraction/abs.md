@@ -147,7 +147,6 @@ Due to the fact, an abstract class is not a concrete class, it cannot be instant
 abstract class it raises an error.
 
 ## class Examples:
-
 Example 3:
 
 ```Python
