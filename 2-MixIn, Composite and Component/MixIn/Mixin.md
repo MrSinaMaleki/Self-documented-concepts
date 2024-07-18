@@ -86,4 +86,10 @@ class Ak47Sina(Ak47, FastReload):
 sina_ak = Ak47Sina()
 print(sina_ak.reload_time)
 ```
+
+You can also get the input from the user and put it in the class initian call so you can use the paransese and do an acuall composition.
+
+
+
+
 In the example above you are over_writing the inherited value and decrementing it by the value of a gun with fast reload !
