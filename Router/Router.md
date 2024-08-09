@@ -129,5 +129,14 @@ core.py has 3 main parts.
 Each one of this has a very important task to do.
 Let's talk about each one.
 
+---
+1. Callback()
 
+```Python
+class Callback:
+    def __init__(self, package: str, callback: str) -> None:
+        self.callback = getattr(import_module(package), callback)
 
+    def __call__(self, *args, **kwargs):
+        return self.callback(*args, **kwargs)
+```
