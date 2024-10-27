@@ -1,14 +1,24 @@
 ## Django REST Framework
 
+**Main Topics**
+1. Serialization
+2. Requests and responses
+3. Class Based views
+4. Authentication and permissions
+5. Relationships and hyperlinked APIs
+6. Viewsets and router
+7. Generic Views
+
+
 **Django REST framework is a powerful and flexible toolkit for building Web APIs.**
 
 Some reasons you might want to use REST framework:
-1. The Web browsable API is a huge usability win for your developers.
-2. Authentication policies including packages for OAuth1a and OAuth2.
-3. Serialization that supports both ORM and non-ORM data sources.
-4. Customizable all the way down - just use regular function-based views if you don't need the more powerful features.
-5. Extensive documentation, and great community support.
-6. Used and trusted by internationally recognised companies including Mozilla, Red Hat, Heroku, and Eventbrite.
+* The Web browsable API is a huge usability win for your developers.
+* Authentication policies.
+* Serialization that supports both ORM and non-ORM data sources.
+* Customizable all the way down - just use regular function-based views if you don't need the more powerful features.
+* Extensive documentation, and great community support.
+* Used and trusted by internationally recognised companies including Mozilla, Red Hat, Heroku, and Eventbrite.
 
 ---
 **Requirements**
