@@ -2,13 +2,13 @@
 
 **Django REST framework is a powerful and flexible toolkit for building Web APIs.**
 
-1. Some reasons you might want to use REST framework:
-2. The Web browsable API is a huge usability win for your developers.
-3. Authentication policies including packages for OAuth1a and OAuth2.
-4. Serialization that supports both ORM and non-ORM data sources.
-5. Customizable all the way down - just use regular function-based views if you don't need the more powerful features.
-6. Extensive documentation, and great community support.
-7. Used and trusted by internationally recognised companies including Mozilla, Red Hat, Heroku, and Eventbrite.
+Some reasons you might want to use REST framework:
+1. The Web browsable API is a huge usability win for your developers.
+2. Authentication policies including packages for OAuth1a and OAuth2.
+3. Serialization that supports both ORM and non-ORM data sources.
+4. Customizable all the way down - just use regular function-based views if you don't need the more powerful features.
+5. Extensive documentation, and great community support.
+6. Used and trusted by internationally recognised companies including Mozilla, Red Hat, Heroku, and Eventbrite.
 
 ---
 **Requirements**
